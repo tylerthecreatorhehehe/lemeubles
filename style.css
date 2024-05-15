@@ -1,0 +1,74 @@
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    font-family: arial;
+    font-size: 100px;
+    color: white;
+    letter-spacing: -5px;
+    position: fixed;
+    right: 100px;
+    top: 100px;
+}
+
+.logo{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200px;
+    color: white;
+    letter-spacing: -20px;
+    font-weight: bold;
+    font-style: italic;
+    position: fixed;
+    left: 100px;
+    top: 50px;
+}
+
+.tag{
+
+    font-family: arial;
+    font-size: 300px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: -30px;
+    font-weight: bold;
+    line-height: 230px;
+    position: fixed;
+    top: 1000px;
+    left: 100px;
+
+}
+
+p{
+
+    font-family: arial;
+    font-size: 100px;
+    font-weight: 100;
+    color: white;
+    letter-spacing: -5px;
+    position: fixed;
+    left: 150px;
+    bottom: 700px;  
+    line-height: 90px;
+}
+
+button{
+    background-color: #ca7013;
+    height: 200px;
+    width: 800px;
+    color: white;
+    font-family: arial;
+    font-size: 100px;
+    letter-spacing: -5px;
+    border-radius: 100px;
+    position: fixed;
+    left: 150px;
+    bottom: 300px;
+}
+
+span{
+    margin-left: 50px;
+}
